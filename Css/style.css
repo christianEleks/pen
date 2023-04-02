@@ -431,7 +431,7 @@ body ,html{
 @media only screen and (max-width:500px){
  p{
     margin-inline: 0.4cm;
-    word-spacing:-2px;
+    word-spacing:-3px;
  }
 }
 @media only screen and (max-width:280px){
@@ -458,7 +458,7 @@ body ,html{
         margin: 25px auto;
     }
 } 
-@media only screen and (max-width:400px){
+@media only screen and (max-width:480px){
     .cardo{
         margin-left: auto;
         margin-right: auto;
